@@ -3,7 +3,7 @@ date: '2018-06-11'
 title: 'Business Analyst Intern'
 company: 'Barclays'
 location: 'Pune, India'
-range: 'Jun 2018 - Aug 2018'
+range: 'Jun 2013 - Aug 2019'
 url: 'https://www.banking.barclaysus.com/index.html'
 ---
 
