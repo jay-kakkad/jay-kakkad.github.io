@@ -3,7 +3,7 @@ date: '2020-01-31'
 title: 'Graduate Researcher'
 company: 'Brookhaven National Laboratory'
 location: 'Stony Brook, USA'
-range: 'Jan 2020 - Present'
+range: 'Jan 2020 - Dec 2020'
 ---
 
 - Developing few-shot learning based visual scene recognition model using graph neural network, in PyTorch.
